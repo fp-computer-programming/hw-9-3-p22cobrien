@@ -1,7 +1,5 @@
 # Author: CMOB 1/13/2022
 
-#from hashlib import new
-#from tokenize import Name
 
 while True:
     temp = float(input("What is the temperature?"))
